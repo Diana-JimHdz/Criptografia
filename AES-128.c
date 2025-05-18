@@ -1,5 +1,5 @@
 /*
-    Programa Cifrado César
+    Programa AES 128
     Integrantes:
     - Labastida Vázquez Fernando
     - Badillo Aguilar Diego
